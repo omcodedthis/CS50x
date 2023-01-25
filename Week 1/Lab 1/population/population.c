@@ -24,13 +24,13 @@ int main(void)
 
 
 
-// Returns the start_size of the population ensuring the user inputs a value > 9
+// Returns the start_size of the population ensuring the user inputs a value > 9.
 int get_start_size(void)
 {
     int user_input;
     do
     {
-       user_input= get_int("What is the start size of the population?: ");
+        user_input = get_int("What is the start size of the population?: ");
     }
     while (user_input < 9);
     return user_input;
@@ -44,7 +44,7 @@ int get_end_size(int start_size)
     int user_input;
     do
     {
-       user_input = get_int("What is the end size of the population?: ");
+        user_input = get_int("What is the end size of the population?: ");
     }
     while (user_input < start_size);
     return user_input;
