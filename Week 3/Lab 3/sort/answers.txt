@@ -1,0 +1,19 @@
+sort1 uses: Bubble Sort.
+
+How do you know?: sort1 was one of the fastest in sorting an already sorted set of values.
+In comparison to the other sorting algorithms, it has a Big Omega of n, the second smallest
+order. Thus, by this and the process of elimination, sort1 is a Bubble Sort.
+
+sort2 uses: Merge Sort.
+
+How do you know?: sort2 was the fastest substantially in sorting a random set of values.
+In comparison to the other 2 sorting algorithms, the Big O of Bubble Sort is the smallest
+order,the order of nlog(n). Thus, the conclusion can be drawn that the fastest algorithm
+is the Merge Sort.
+
+sort3 uses: Selection Sort.
+
+How do you know?: sort3 was one of the slowest in sorting an already sorted set of values &
+a random set of values. In comparison to the other 2 sorting algorithms, the Big Theta
+of Selection Sort is the highest order,the order of n^2. Thus, the conclusion can be
+drawn that the slowest algorithm is the Selection Sort.
