@@ -3,5 +3,6 @@ This is CS50x through edX, Harvard University's introduction to the intellectual
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Do note that viewing these projects in this repository is considered a violation of the course’s philosophy on academic honesty, especially if you have not completed the course. This repository has been [briefly made public to be taken into consideration for applications](https://www.reddit.com/r/cs50/comments/agjdcv/adding_cs50_projects_to_personal_portfolio/) as per the Academic Honesty Guidelines.
+<sub>*Disclaimer: If you are a current or a prospective student, viewing these projects in this repository is considered a ***violation of the course’s philosophy on academic honesty.*** This repository has been [briefly made public to be taken into consideration for applications](https://www.reddit.com/r/cs50/comments/agjdcv/adding_cs50_projects_to_personal_portfolio/) as per the Academic Honesty Guidelines.*<sub/>
+
 
