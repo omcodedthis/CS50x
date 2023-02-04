@@ -32,7 +32,7 @@ int main(int argc, char *argv[])
         temp =  malloc(7 * sizeof(char));
 
         // This for-loop goes through all the chars in buffer & then stores them
-        // in the memory allocated to temp. temp now points to the first char of the plate.
+        // in the memory allocated to temp. temp now holds the address to the first char of the plate.
         for (int j = 0; j < 7; j++)
         {
             temp[j] = buffer[j];
@@ -45,21 +45,12 @@ int main(int argc, char *argv[])
         idx++;
     }
 
-    // this for-loop now prints all 8 plates, through the pointers stored in each index.
+    // this for-loop now prints all 8 plates, through the pointers stored in each index and frees up
+    // the memory the pointer is pointing to as it is not required anymore after its printed.
     for (int i = 0; i < idx; i++)
     {
         printf("%s\n", plates[i]);
     }
-
+    
     fclose(infile);
-
-    // this for-loop now frees up all the memory each pointer in each index was pointing to. There is
-    // no need to free(temp) as the final index of plates and temp point to the same address of the 1st char
-    // of the final plate.
-    for (int j = 0; j < idx; j++)
-    {
-        free(plates[j]);
-    }
-
-
 }
