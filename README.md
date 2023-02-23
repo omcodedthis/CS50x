@@ -57,7 +57,7 @@ This is CS50x through edX, Harvard University's introduction to the intellectual
 
 ## Getting Started
 
-* [2023 CS50x Website.](https://cs50.harvard.edu/x/2023/)
+* [CS50x 2023 Website.](https://cs50.harvard.edu/x/2023/)
 
 * Install [VSCode.](https://code.visualstudio.com/)
 
