@@ -3,7 +3,7 @@ This is CS50x through edX, Harvard University's introduction to the intellectual
 
 ## Current Progress
 
-![cs50currentprog](https://user-images.githubusercontent.com/119602009/220913385-1348ab71-dba4-43c9-9b47-7f239b6bec38.png)
+![cs50currentprog](https://user-images.githubusercontent.com/119602009/220915280-7f9f22df-b56a-4a83-a4c4-553c3d2a080c.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <sub>*Disclaimer: If you are a current or a prospective student, acessing these projects in this repository is considered a ***violation of the course’s policy on academic honesty.*** This repository has been [briefly made public to be taken into consideration for applications](https://www.reddit.com/r/cs50/comments/agjdcv/adding_cs50_projects_to_personal_portfolio/) as per the Academic Honesty Guidelines.*<sub/>
