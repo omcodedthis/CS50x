@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <link href="styles.css" rel="stylesheet">
+        <script src="clickme.js" ></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+        <link href="styles.css" rel="stylesheet">
+        <title>My Webpage</title>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary bg-dark">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="index.html">My HomePage</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/tools.html">Tools Used</a>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      My Hobbies
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="/f1.html">Formula 1©</a></li>
+                      <li><a class="dropdown-item" href="/gaming.html">Gaming</a></li>
+                    </ul>
+                </ul>
+              </div>
+            </div>
+          </nav>
+          <br>
+          <br>
+          <br>
+          <p class="text-black text-center fs-1 fw-bold">Tools Used</p>
+          <br>
+          <br>
+          <br>
+          <div id="carouselExampleIndicators" class="carousel slide">
+            <div class="carousel-indicators">
+              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="/vscode.png" class="d-block w-100" alt="vscode">
+              </div>
+              <div class="carousel-item">
+                <img src="/github.jpg" class="d-block w-100" alt="github">
+              </div>
+              <div class="carousel-item">
+                <img src="/bootstrap.jpg" class="d-block w-100" alt="bootstrp">
+              </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+          <br>
+          <p class="medium centered timesfont grey defaultsize middle">I used VSCode, GitHub & Bootstrap to create this very website!</p>
+          <br>
+          <br>
+          <button onclick="alertme()">Click me!</button>
+          <br>
+          <br>
+          <ul class="nav justify-content-center bg-dark py-3 position-relative bottom-0 start-50 translate-middle-x">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="https://cs50.harvard.edu/x/2023/">CS50x 2023 Website.</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://community.alumni.harvard.edu/give/59206872">Donate to CS50!</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://cs50.harvard.edu/x/2023/communities/">Connect with the CS50 Community!</a>
+            </li>
+          </ul>
+    </body>
+</html>

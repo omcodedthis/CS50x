@@ -1,0 +1,29 @@
+.medium{
+    font-size: medium;
+}
+
+.centered{
+    text-align: center;
+}
+
+.timesfont{
+    font-family: Times;
+}
+
+.grey{
+    color: grey;
+}
+
+.defaultsize{
+    height: 200px;
+    width: 200px;
+}
+
+.middle{
+    position: relative;
+    width: 100px;
+    height: 200px;
+    bottom:12px;
+    left:700px;
+
+}
