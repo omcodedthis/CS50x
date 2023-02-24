@@ -5,56 +5,54 @@ Topics include abstraction, algorithms, data structures, encapsulation, resource
 
 ## Current Progress
 
-![cs50currentprog](https://user-images.githubusercontent.com/119602009/220915280-7f9f22df-b56a-4a83-a4c4-553c3d2a080c.png)
+![currentprog](https://user-images.githubusercontent.com/119602009/221210996-357b6889-7322-4eb8-ad8d-90497417307b.png)
 
 ## Weekly Scores
 
-<details><summary>View Week 0 Scores</summary>
-<p>
-<img src="https://user-images.githubusercontent.com/119602009/220960370-98173503-674e-42e5-a130-5ed57d4f10c3.png" </img>
-</p>
+<details>
+<summary>View Week 0 Scores</summary>
+<img src="https://user-images.githubusercontent.com/119602009/220960370-98173503-674e-42e5-a130-5ed57d4f10c3.png"> </img>
 </details>
 
 <details><summary>View Week 1 Scores</summary>
-<p>
-<img src="https://user-images.githubusercontent.com/119602009/220962491-d43a4448-9cf7-4afb-a841-119c55443135.png" </img>
-</p>
+
+<img src="https://user-images.githubusercontent.com/119602009/220962491-d43a4448-9cf7-4afb-a841-119c55443135.png"> </img>
+
 </details>
 
-<details><summary>View Week 2 Scores</summary>
-<p>
-<img src="https://user-images.githubusercontent.com/119602009/220962341-17f9b312-fbd0-45cb-892c-493f8de50ed3.png" </img>
-</p>
+<details>
+<summary>View Week 2 Scores</summary>
+<img src="https://user-images.githubusercontent.com/119602009/220962341-17f9b312-fbd0-45cb-892c-493f8de50ed3.png"> </img>
 </details>
 
-<details><summary>View Week 3 Scores</summary>
-<p>
-<img src="https://user-images.githubusercontent.com/119602009/220961348-b6a4d510-6ed5-4368-b2d5-90639c8a5722.png" </img>
-</p>
+<details>
+<summary>View Week 3 Scores</summary>
+<img src="https://user-images.githubusercontent.com/119602009/220961348-b6a4d510-6ed5-4368-b2d5-90639c8a5722.png"> </img>
 </details>
 
-<details><summary>View Week 4 Scores</summary>
-<p>
-<img src="https://user-images.githubusercontent.com/119602009/220962659-dfef079f-334b-445f-a379-eac11f944ef7.png" </img>
-</p>
+<details>
+<summary>View Week 4 Scores</summary>
+<img src="https://user-images.githubusercontent.com/119602009/220962659-dfef079f-334b-445f-a379-eac11f944ef7.png"> </img>
 </details>
 
-<details><summary>View Week 5 Scores</summary>
-<p>
-<img src="https://user-images.githubusercontent.com/119602009/220961419-27ba3a3e-b093-43f7-ba8e-a64c4835fabb.png" </img>
-</p>
+<details>
+<summary>View Week 5 Scores</summary>
+<img src="https://user-images.githubusercontent.com/119602009/220961419-27ba3a3e-b093-43f7-ba8e-a64c4835fabb.png"> </img>
 </details>
 
-<details><summary>View Week 6 Scores</summary>
-<p>
-<img src="https://user-images.githubusercontent.com/119602009/220961433-309d5947-6863-46fb-9228-4e95d2b079a7.png" </img>
-</p>
+<details>
+<summary>View Week 6 Scores</summary>
+<img src="https://user-images.githubusercontent.com/119602009/220961433-309d5947-6863-46fb-9228-4e95d2b079a7.png"> </img>
 </details>
 
-<details><summary>View Week 7 Scores</summary>
-<p>
-<img src="https://user-images.githubusercontent.com/119602009/220961446-9058c9e0-7fe7-439c-a660-cea2721dd49d.png" </img>
-</p>
+<details> 
+<summary>View Week 7 Scores</summary>
+<img src="https://user-images.githubusercontent.com/119602009/220961446-9058c9e0-7fe7-439c-a660-cea2721dd49d.png"> </img>
+</details>
+
+<details> 
+<summary>View Week 8 Scores</summary>
+<img src="https://user-images.githubusercontent.com/119602009/221211078-f6e43377-2909-4748-b679-97190f291ec7.png"> </img>
 </details>
 
 ## Getting Started
