@@ -10,6 +10,7 @@ Wherever possible, I had attempted the more comfortable versions of the Labs & P
 ![currentprog](https://user-images.githubusercontent.com/119602009/221210996-357b6889-7322-4eb8-ad8d-90497417307b.png)
 
 ## Weekly Scores
+The Labs & Problem Sets for each week are graded in two segments. [check50](https://cs50.readthedocs.io/projects/check50/en/latest/index.html) checks for the correctness of the code & [style50](https://cs50.readthedocs.io/style50/) checks for the style of how a program was written. The scores are recorded in the bottom-left corner of each submission. By clicking on the image, you can view an enlarged version in a new tab.
 
 <details>
 <summary>View Week 0 Scores</summary>
