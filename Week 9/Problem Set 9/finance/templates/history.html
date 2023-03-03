@@ -1,0 +1,56 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Your History
+{% endblock %}
+
+{% block main %}
+<div>
+  <table class="inlineTable">
+    <tr>
+      <th>Stock Bought</th>
+
+        {% for row in user_bought: %}
+        <tr>
+        <td>{{ row["ticker"] }}</td>
+        </tr>
+        {% endfor %}
+    </tr>
+  </table>
+
+  <table class="inlineTable">
+    <tr>
+      <th>Number of Shares Bought</th>
+
+        {% for row in user_bought: %}
+        <tr>
+        <td>{{ row["shares_bought"] }}</td>
+        </tr>
+        {% endfor %}
+    </tr>
+  </table>
+
+  <table class="inlineTable">
+    <tr>
+      <th>Stocks Sold</th>
+
+        {% for row in user_sold: %}
+        <tr>
+        <td>{{ row["ticker"] }}</td>
+        </tr>
+        {% endfor %}
+    </tr>
+</div>
+<hr>
+<table class="inlineTable">
+  <tr>
+    <th>Number of Shares Sold</th>
+
+      {% for row in user_sold: %}
+      <tr>
+      <td>{{ row["shares_sold"] }}</td>
+      </tr>
+      {% endfor %}
+  </tr>
+</table>
+{% endblock %}

@@ -1,0 +1,20 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Stock Details
+{% endblock %}
+
+{% block main %}
+<table class="centre">
+    <tr>
+      <th>Stock Name</th>
+      <th>Current Price</th>
+      <th>Symbol</th>
+    </tr>
+    <tr>
+      <td>{{ ticker_details["name"] }}</td>
+      <td>{{ ticker_details["price"] | usd }}</td>
+      <td>{{ ticker_details["symbol"] }}</td>
+    </tr>
+  </table>
+{% endblock %}
