@@ -73,6 +73,6 @@ The Labs & Problem Sets for each week are graded in two segments. [check50](http
 * View the [CS50 Docs](https://cs50.readthedocs.io/) for information on style guides, libraries & more.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<sub>*Disclaimer: If you are a current or a prospective student, acessing these projects in this repository is considered a ***violation of the course’s policy on academic honesty.*** This repository has been [briefly made public to be taken into consideration for applications](https://www.reddit.com/r/cs50/comments/agjdcv/adding_cs50_projects_to_personal_portfolio/) as per the Academic Honesty Guidelines.*<sub/>
+<sub>*Disclaimer: If you are a current or a prospective student, acessing these projects in this repository is considered a ***violation of the course’s policy on academic honesty.*** This repository has been [briefly made public to be taken into consideration for applications](https://www.reddit.com/r/cs50/comments/agjdcv/comment/j447evn/) as per the Academic Honesty Guidelines.*<sub/>
 
 
